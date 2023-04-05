@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Portfolio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Trades>
+    <Trade>
+      <Ticker>MSFT</Ticker>
+      <TradeDate>2018-02-01T00:00:00</TradeDate>
+      <BuySell>Buy</BuySell>
+      <Quantity>100</Quantity>
+      <Price>85.95</Price>
+      <Cost>8595.00</Cost>
+      <CurrentPrice>0</CurrentPrice>
+      <PrevClose>0</PrevClose>
+      <DailyPL>0</DailyPL>
+      <InceptionPL>0</InceptionPL>
+    </Trade>
+    <Trade>
+      <Ticker>GOOG</Ticker>
+      <TradeDate>2018-02-01T00:00:00</TradeDate>
+      <BuySell>Buy</BuySell>
+      <Quantity>50</Quantity>
+      <Price>1065.00</Price>
+      <Cost>53250.00</Cost>
+      <CurrentPrice>0</CurrentPrice>
+      <PrevClose>0</PrevClose>
+      <DailyPL>0</DailyPL>
+      <InceptionPL>0</InceptionPL>
+    </Trade>
+    <Trade>
+      <Ticker>MSFT</Ticker>
+      <TradeDate>2018-10-01T00:00:00</TradeDate>
+      <BuySell>Buy</BuySell>
+      <Quantity>150</Quantity>
+      <Price>87.82</Price>
+      <Cost>13173.00</Cost>
+      <CurrentPrice>0</CurrentPrice>
+      <PrevClose>0</PrevClose>
+      <DailyPL>0</DailyPL>
+      <InceptionPL>0</InceptionPL>
+    </Trade>
+  </Trades>
+</Portfolio>
